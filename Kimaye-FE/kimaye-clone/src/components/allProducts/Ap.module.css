@@ -1,0 +1,28 @@
+.category {
+  /* border: solid red 1px; */
+  display: flex;
+  width: fit-content;
+  margin: auto;
+}
+.category div {
+  margin: 20px;
+  color: gray;
+  cursor: pointer;
+  /* text-decoration: underline; */
+}
+.category div:hover {
+  text-decoration: underline;
+}
+.routes {
+  color: gray;
+  display: flex;
+  justify-content: space-between;
+  margin: auto 10%;
+  margin-top: 50px;
+}
+.allfruitsContainer {
+  margin: auto 10%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}

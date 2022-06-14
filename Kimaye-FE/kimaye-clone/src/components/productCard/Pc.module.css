@@ -1,0 +1,33 @@
+.imgDiv img {
+  /* height: 320px; */
+  width: 100%;
+  border-radius: 30px;
+}
+
+.CtoSbtn {
+  display: none;
+  background-color: #437111;
+  color: white;
+  font-size: 18px;
+  padding: 10px 0px;
+  border-radius: 0px 0px 30px 30px;
+  cursor: pointer;
+  /* margin-top: -50px; */
+}
+
+.imgDiv:hover .CtoSbtn {
+  display: block;
+  transition: 3s;
+}
+.imgDiv:hover {
+  transition: 0.5s;
+  transform: scale(1.07);
+  cursor: pointer;
+}
+.titleprice {
+  font-size: 18px;
+}
+.titleprice p:last-child{
+    color: rgb(247, 37, 37);
+    font-size: 20px;
+}

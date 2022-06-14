@@ -1,0 +1,84 @@
+{
+  "allfruits": [
+    {
+      "id": 1,
+      "title": "Kimaye Dasheri Mangoes (Pack of 3,6 &12)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Dasheri_360x.jpg?v=1623855977",
+      "description": "Dasheri mangoes are long and oval shaped, with light green to yellow-green skin and turn golden yellow on ripening. Dasheri mangoes have a light yellow colored flesh with a medium-sized stone. This Mango variety is known for its very sweet and aromatic flavor.",
+      "origin": "India",
+      "price": 209
+    },
+    {
+      "id": 2,
+      "title": "Kimaye Cherry- Blueberry Combo",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Cherry--_-blueberry.progressive.jpg?v=1654851019",
+      "description": "What do you call a Combo which has both Blueberries and Cherries? Delicious right?",
+      "origin": "India",
+      "price": 429
+    },
+    {
+      "id": 3,
+      "title": "Kimaye Litchi (500g)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Lychee_360x.jpg?v=1622208039",
+      "description": "Litchis are sweet, juicy, and robust.The pearl-white pulp is covered in juice and houses a dark-brown seed at its center.The firm yet gelatinous pulp is chewy and juicy with a sweet, fruity flavor like a cross of strawberry and watermelon with a touch of pineapple. Litchis are also fragrant with a tropical scent and a hint of roses.",
+      "origin": "India",
+      "price": 230
+    },
+    {
+      "id": 4,
+      "title": "Kimaye Jamun (250 gm)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/image.progressive.jpg?v=1620889338",
+      "description": "Jamun are oblong shaped berries with a dark red to dark black colored skin with starkly contrasting pinkish- white flesh. The flesh is extremely juicy and has a flavor that combines sweet and tart with a slightly astringent aftertaste. The dark-colored skin leaves a stain on the lips and mouth that can last for several hours.",
+      "origin": "Maharastar, India",
+      "price": 169
+    },
+    {
+      "id": 5,
+      "title": "Kimaye Fresh Dates (Pack of 250g & 500g)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Date_d427b5d6-08d3-4f16-8220-a7d3409bbaed_360x.jpg?v=1624886493",
+      "description": "Fresh dates grow by the dozens on long yellow stems. They are typically harvested during the semi-ripe stage and look almost like a bunch of giant red grapes. Each date has an elongated oval shape. They have a deep red to burgundy skin with a bright white, crisp flesh, like that of an apple with one long, central pit. The flesh is fiber-less and sweet with hints of cinnamon and sugar cane.",
+      "origin": "India",
+      "price": 102
+    },
+    {
+      "id": 6,
+      "title": "Kimaye Cherries (Indian) (250g)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Cherry-cover_29fec80d-0bed-4148-808c-0707021b5db3_360x.jpg?v=1625033744",
+      "description": "The perfect cherry is rounded with a slight heart shape and dimple at its stem end. The skin is thin with a deep red color and a brilliant sheen. Cherry's flavor is sweet and pleasantly tarty, mimicking notes of currant, plum, raspberry and blackberry.",
+      "origin": "India",
+      "price": 105
+    },
+    {
+      "id": 7,
+      "title": "Kimaye Honeydew Melon (1 pc)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/HoneydewMeloncover_360x.jpg?v=1654761963",
+      "description": "Honeydew melons are small to medium fruits, the rind develops a waxy, velvety surface with a slightly sticky consistency, Underneath the surface, the flesh appears in shades of pale green or white green hues, depending on the variety, and thickness, density. Honeydew melons emit a faint, sweet aroma and will feel heavy for their size, yielding under gentle pressure around the blossom end when ripe. The melons contain approximately 16 Brix, a measurement of sugar levels within the flesh, contributing to the melon’s delicate, sweet, floral, and subtly fruity flavor.",
+      "origin": "India",
+      "price": 305
+    },
+    {
+      "id": 8,
+      "title": "Kimaye Apricots (Pack of 250g & 500g)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/Apricot-cover_360x.jpg?v=1624704940",
+      "description": "Apricots are stone fruits, characterized by their thin skin, pulpy middle, and a hard central shell enclosing a pit. They have a smooth and velvety outer skin with a rosy blush, and can range in color from pale yellow to golden, depending on how ripe they are. The flesh is juicy and sweet. The taste is often a mix of peach and plum.",
+      "origin": "India",
+      "price": 95
+    },
+    {
+      "id": 9,
+      "title": "Kimaye Alphonso Mangoes",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/MangoCover_908c34e6-fcdb-4564-918e-48d7baeaf628_360x.jpg?v=1645445684",
+      "description": "Alphonso, the beloved mango variety known for it's matchless aroma and flavour, is often given the epithet The King of Mangoes. Also known as Hapus locally, the variety is a perfect serve for the table. Each Kimaye Alphonso mango is GI tagged, ripened carbide-free, traceable to it's farmer and source and comes with a minimum guaranteed weight and size.",
+      "origin": "Ratnagiri,India",
+      "price": 193
+    },
+    {
+      "id": 10,
+      "title": "Kimaye Kesar Mangoes (Pack of 3 & 6)",
+      "image": "https://cdn.shopify.com/s/files/1/0449/5225/6667/products/cover-Mango_5fc755ae-5f58-4127-b1f9-30bceaa56e3d_360x.jpg?v=1620127827",
+      "description": "Kesar is an intensely sweet mango that cannot fail to be satisfying, and flavorsome. Often known as Gir Kesar, grown in a specific region around Gir forest is popularly known to have been the favorite of the Nawabs from Junagadh.",
+      "origin": "India",
+      "price": 193
+    }
+  ]
+}

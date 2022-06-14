@@ -1,7 +1,10 @@
 import "./App.css";
+import { MainRouter } from "./routers/mainRouters/MainRouter";
 
 function App() {
-  return <div className="App"></div>;
+  return <div className="App">
+    <MainRouter/>
+  </div>;
 }
 
 export default App;
